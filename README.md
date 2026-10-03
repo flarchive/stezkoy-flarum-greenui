@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of stezkoy/flarum-greenui.** Not for installation: use [Packagist](https://packagist.org/packages/stezkoy/flarum-greenui) or the [upstream repository](https://github.com/Stezkoy/flarum-greenui).
 
-**0** versions archived · Latest: [`1.2.9`](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.2.9) · License: `GPL-3.0` · Flarum: `^1.8.0`
+**13** versions archived · Latest: [`1.2.9`](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.2.9) · License: `GPL-3.0` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.1.5` | 2024-12-26 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.1.5) |
+| `1.1.6` | 2024-12-26 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.1.6) |
+| `1.1.7` | 2024-12-26 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.1.7) |
+| `1.1.8` | 2024-12-26 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.1.8) |
+| `1.1.9` | 2024-12-26 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.1.9) |
+| `1.2.0` | 2024-12-27 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.2.0) |
+| `1.2.1` | 2025-01-04 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.2.1) |
+| `1.2.2` | 2025-04-24 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.2.2) |
+| `1.2.3` | 2025-05-19 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.2.3) |
+| `1.2.4` | 2025-05-27 | `^1.8.0` | [Browse](https://github.com/flarchive/stezkoy-flarum-greenui/tree/archive/v1.2.4) |
+
+[View all 13 versions](https://github.com/flarchive/stezkoy-flarum-greenui/tags)
 
 Catalog entry: [packages/stezkoy-flarum-greenui.json](https://github.com/flarchive/archive-index/blob/main/packages/stezkoy-flarum-greenui.json)
 
